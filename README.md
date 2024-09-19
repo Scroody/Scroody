@@ -1,6 +1,6 @@
 ## Howdy, Partner! 🤠
 
-Name's **André**, I'm a front-end developer @ [imdt](https://github.com/imdt) working on the [Big Blue Button](https://github.com/bigbluebutton/) project. My favorite thing to do is crack open a beer 🍺 and watch *PBR live* 🐂. Nice to meet ya!
+Name's **André**, I'm a front-end developer @ [imdt](https://github.com/imdt) working on the [Big Blue Button](https://github.com/bigbluebutton/) project. My favorite thing to do is crack open a beer 🍺 and watch *PBR live* 🐂. Nice to meet ya!!
 
 Just in case you want to check me out:
 
